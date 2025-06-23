@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://i.postimg.cc/wBxjmDd9/Screenshot-2025-06-23-015731.png" alt="Sigrun Hedda banner" width="60%" />
+</div>
 
-<!--
-**hedarun/hedarun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🎨 Sigrun Hedda here 👋🏽
 
-Here are some ideas to get you started:
+Frontend developer & artist — building expressive interfaces for the decentralized web.  
+I believe design is not just how it looks, but how it feels.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Interests
+
+- 🧠 Ethereum & Web3 UX  
+- 🎨 Creative frontend architecture  
+- 🎞️ Motion, color, and visual storytelling  
+- 🧩 Designing clarity in complex systems
+
+---
+
+## 🛠 Tools I Use
+
+- ⚛️ React, TypeScript  
+- 💨 Tailwind CSS, Framer Motion  
+- 🖌️ Figma, Adobe XD  
+- 🔗 ethers.js, wagmi
+
+<!---
+sigrunhedda/sigrunhedda is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+--->
