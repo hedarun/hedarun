@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="https://i.postimg.cc/wBxjmDd9/Screenshot-2025-06-23-015731.png" alt="Sigrun Hedda banner" width="auto" />
+  <img src="https://i.postimg.cc/wBxjmDd9/Screenshot-2025-06-23-015731.png" alt="Sigrun Hedda banner" width="100%" />
 </div>
 
-# 🎨 Sigrun Hedda here 👋🏽
+# 🎨 Hi, I’m Sigrun Hedda
 
-Frontend developer & artist — building expressive interfaces for the decentralized web.  
+Frontend developer & artist — crafting expressive interfaces for Bitcoin-powered products.  
 I believe design is not just how it looks, but how it feels.
 
 ---
 
 ## 🌐 Interests
 
-- 🧠 Ethereum & Web3 UX  
+- 🧠 Bitcoin UX & Layer 2 protocols  
 - 🎨 Creative frontend architecture  
 - 🎞️ Motion, color, and visual storytelling  
-- 🧩 Designing clarity in complex systems
+- 🧩 Designing clarity in decentralized systems
 
 ---
 
@@ -23,7 +23,7 @@ I believe design is not just how it looks, but how it feels.
 - ⚛️ React, TypeScript  
 - 💨 Tailwind CSS, Framer Motion  
 - 🖌️ Figma, Adobe XD  
-- 🔗 ethers.js, wagmi
+- 🔗 bitcoinjs-lib, Lightning SDK
 
 <!---
 sigrunhedda/sigrunhedda is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
