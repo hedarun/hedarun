@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/wBxjmDd9/Screenshot-2025-06-23-015731.png" alt="Sigrun Hedda banner" width="60%" />
+  <img src="https://i.postimg.cc/wBxjmDd9/Screenshot-2025-06-23-015731.png" alt="Sigrun Hedda banner" width="auto" />
 </div>
 
 # 🎨 Sigrun Hedda here 👋🏽
